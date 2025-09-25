@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.ko /home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.o /home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.mod.o

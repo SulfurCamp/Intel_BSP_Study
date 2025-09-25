@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/Intel_study/Intel_BSP/hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ubuntu/Intel_study/Intel_BSP/hello/Module.symvers -T /home/ubuntu/Intel_study/Intel_BSP/hello/modules.order -i Module.symvers -e 

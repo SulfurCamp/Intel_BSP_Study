@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.mod := printf '%s\n'   hello2.o | awk '!x[$$0]++ { print("/home/ubuntu/Intel_study/Intel_BSP/hello2/"$$0) }' > /home/ubuntu/Intel_study/Intel_BSP/hello2/hello2.mod

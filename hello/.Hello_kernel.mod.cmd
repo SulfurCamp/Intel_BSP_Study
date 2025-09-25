@@ -1,0 +1,1 @@
+savedcmd_/home/ubuntu/Intel_study/Intel_BSP/hello/Hello_kernel.mod := printf '%s\n'   Hello_kernel.o | awk '!x[$$0]++ { print("/home/ubuntu/Intel_study/Intel_BSP/hello/"$$0) }' > /home/ubuntu/Intel_study/Intel_BSP/hello/Hello_kernel.mod
