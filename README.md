@@ -1,4 +1,4 @@
-# Raspberry Pi 4 BSP 크로스 컴파일 정리
+# Raspberry Pi 4 BSP
 
 ## 작업 환경
 - Host: Ubuntu (교차 컴파일 환경)
